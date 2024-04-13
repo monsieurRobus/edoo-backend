@@ -1,1 +1,2 @@
-# readybackend
+# edoo-backend
+by Carlos Díaz
